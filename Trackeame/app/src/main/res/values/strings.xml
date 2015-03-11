@@ -1,3 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">Trackeame</string>
+    <!-- mapApiKey -->
+    <string name="mapApiKey">AIzaSyBO5NWgybmZ6sBUhADTsu4cghjJfuxotDk</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
 </resources>

@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">TrackeameViewer</string>
+	
+    <!-- mapApiKey -->
+    <string name="mapApiKey">AIzaSyC-aY2UEAIZPDKes74iCPu29ZHskwgaUIQ</string>
+
+</resources>
